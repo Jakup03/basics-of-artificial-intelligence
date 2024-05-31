@@ -1,0 +1,35 @@
+Alpha: 0.01, 60000 training set, 10000 test set, weights: <-0.1, 0.1>, 40 hidden units
+
+Iter: 0 Error: 0.831248 Accuracy: 54832 accuracy: 91.3867
+Iter: 10 Error: 0.460837 Accuracy: 57969 accuracy: 96.615
+Iter: 20 Error: 0.433707 Accuracy: 58178 accuracy: 96.9633
+Iter: 30 Error: 0.419849 Accuracy: 58296 accuracy: 97.16
+Iter: 40 Error: 0.411295 Accuracy: 58365 accuracy: 97.275
+Iter: 50 Error: 0.390641 Accuracy: 58422 accuracy: 97.37
+Iter: 60 Error: 0.351688 Accuracy: 58464 accuracy: 97.44
+Iter: 70 Error: 0.340079 Accuracy: 58481 accuracy: 97.4683
+Iter: 80 Error: 0.332743 Accuracy: 58507 accuracy: 97.5117
+Iter: 90 Error: 0.327836 Accuracy: 58517 accuracy: 97.5283
+Iter: 100 Error: 0.324031 Accuracy: 58554 accuracy: 97.59
+Iter: 110 Error: 0.320631 Accuracy: 58572 accuracy: 97.62
+Iter: 120 Error: 0.317631 Accuracy: 58578 accuracy: 97.63
+Iter: 130 Error: 0.315332 Accuracy: 58588 accuracy: 97.6467
+Iter: 140 Error: 0.31305 Accuracy: 58604 accuracy: 97.6733
+Iter: 150 Error: 0.311264 Accuracy: 58617 accuracy: 97.695
+Iter: 160 Error: 0.309713 Accuracy: 58630 accuracy: 97.7167
+Iter: 170 Error: 0.308017 Accuracy: 58637 accuracy: 97.7283
+Iter: 180 Error: 0.30664 Accuracy: 58646 accuracy: 97.7433
+Iter: 190 Error: 0.305401 Accuracy: 58652 accuracy: 97.7533
+Iter: 200 Error: 0.304358 Accuracy: 58658 accuracy: 97.7633
+Iter: 210 Error: 0.303575 Accuracy: 58664 accuracy: 97.7733
+Iter: 220 Error: 0.302592 Accuracy: 58671 accuracy: 97.785
+Iter: 230 Error: 0.301814 Accuracy: 58686 accuracy: 97.81
+Iter: 240 Error: 0.301135 Accuracy: 58687 accuracy: 97.8117
+Iter: 250 Error: 0.300319 Accuracy: 58691 accuracy: 97.8183
+Iter: 260 Error: 0.299684 Accuracy: 58698 accuracy: 97.83
+Iter: 270 Error: 0.29915 Accuracy: 58701 accuracy: 97.835
+Iter: 280 Error: 0.298587 Accuracy: 58705 accuracy: 97.8417
+Iter: 290 Error: 0.297973 Accuracy: 58700 accuracy: 97.8333
+Iter: 300 Error: 0.297514 Accuracy: 58720 accuracy: 97.8667
+Operation took 3490.56seconds
+Test Accuracy: 95.63Operation took 0.311seconds

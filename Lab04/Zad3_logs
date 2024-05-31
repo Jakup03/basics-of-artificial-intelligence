@@ -1,0 +1,6 @@
+Alpha: 0.02, 60000 training set, 10000 test set, weights: <-0.1, 0.1>, 100 hidden units
+
+Relu Accuracy: 94.07%
+Tanh Accuracy: 87.24%
+Sigmoid Accuracy: 89.85%
+Softmax Accuracy: 91.52%

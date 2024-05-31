@@ -1,0 +1,39 @@
+Alpha: 0.005, 1000 training set, 10000 test set, weights: <-0.1, 0.1>, 100 hidden units
+
+Iter: 0 Error: 0.673864 Train Accuracy: 570 - 57% Test Accuracy: 70.73
+Iter: 10 Error: 0.170225 Train Accuracy: 965 - 96.5% Test Accuracy: 86.95
+Iter: 20 Error: 0.104526 Train Accuracy: 995 - 99.5% Test Accuracy: 88.01
+Iter: 30 Error: 0.0723894 Train Accuracy: 1000 - 100% Test Accuracy: 88.38
+Iter: 40 Error: 0.0533934 Train Accuracy: 1000 - 100% Test Accuracy: 88.53
+Iter: 50 Error: 0.0409914 Train Accuracy: 1000 - 100% Test Accuracy: 88.52
+Iter: 60 Error: 0.0324965 Train Accuracy: 1000 - 100% Test Accuracy: 88.38
+Iter: 70 Error: 0.0262949 Train Accuracy: 1000 - 100% Test Accuracy: 88.32
+Iter: 80 Error: 0.0216915 Train Accuracy: 1000 - 100% Test Accuracy: 88.29
+Iter: 90 Error: 0.0182028 Train Accuracy: 1000 - 100% Test Accuracy: 88.24
+Iter: 100 Error: 0.0154681 Train Accuracy: 1000 - 100% Test Accuracy: 88.15
+Iter: 110 Error: 0.0132784 Train Accuracy: 1000 - 100% Test Accuracy: 88.03
+Iter: 120 Error: 0.0115327 Train Accuracy: 1000 - 100% Test Accuracy: 87.94
+Iter: 130 Error: 0.0100924 Train Accuracy: 1000 - 100% Test Accuracy: 87.89
+Iter: 140 Error: 0.00890396 Train Accuracy: 1000 - 100% Test Accuracy: 87.86
+Iter: 150 Error: 0.00790615 Train Accuracy: 1000 - 100% Test Accuracy: 87.87
+Iter: 160 Error: 0.0070739 Train Accuracy: 1000 - 100% Test Accuracy: 87.76
+Iter: 170 Error: 0.00637254 Train Accuracy: 1000 - 100% Test Accuracy: 87.68
+Iter: 180 Error: 0.00577408 Train Accuracy: 1000 - 100% Test Accuracy: 87.64
+Iter: 190 Error: 0.00525556 Train Accuracy: 1000 - 100% Test Accuracy: 87.64
+Iter: 200 Error: 0.00480871 Train Accuracy: 1000 - 100% Test Accuracy: 87.58
+Iter: 210 Error: 0.00441502 Train Accuracy: 1000 - 100% Test Accuracy: 87.54
+Iter: 220 Error: 0.00406935 Train Accuracy: 1000 - 100% Test Accuracy: 87.53
+Iter: 230 Error: 0.00376392 Train Accuracy: 1000 - 100% Test Accuracy: 87.48
+Iter: 240 Error: 0.00349627 Train Accuracy: 1000 - 100% Test Accuracy: 87.44
+Iter: 250 Error: 0.00325506 Train Accuracy: 1000 - 100% Test Accuracy: 87.42
+Iter: 260 Error: 0.00303441 Train Accuracy: 1000 - 100% Test Accuracy: 87.4
+Iter: 270 Error: 0.00283917 Train Accuracy: 1000 - 100% Test Accuracy: 87.4
+Iter: 280 Error: 0.00266221 Train Accuracy: 1000 - 100% Test Accuracy: 87.36
+Iter: 290 Error: 0.00250032 Train Accuracy: 1000 - 100% Test Accuracy: 87.35
+Iter: 300 Error: 0.0023537 Train Accuracy: 1000 - 100% Test Accuracy: 87.26
+Iter: 310 Error: 0.00221713 Train Accuracy: 1000 - 100% Test Accuracy: 87.25
+Iter: 320 Error: 0.00209666 Train Accuracy: 1000 - 100% Test Accuracy: 87.28
+Iter: 330 Error: 0.00198327 Train Accuracy: 1000 - 100% Test Accuracy: 87.24
+Iter: 340 Error: 0.00187893 Train Accuracy: 1000 - 100% Test Accuracy: 87.24
+Iter: 349 Error: 0.00179235 Train Accuracy: 1000 - 100% Test Accuracy: 87.24
+Operation took 187.714seconds
